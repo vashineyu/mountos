@@ -30,3 +30,5 @@ aws_secret_access_key=KEYSECRET01
 aws_access_key_id=KEYID02
 aws_secret_access_key=KEYSECRET02
 ```
+
+Or you can export your credentials file by `export /mnt/deep-learning/usr/seanyu/home/maintenance/s3/credentials`
